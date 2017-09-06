@@ -1,0 +1,14 @@
+html {
+	color: white;
+	background-color: #002b70
+}
+em {color: red;
+}
+strong {
+	color: #dcaaed;
+}
+#lyrics-title {
+		font-size: 36px;
+			}
+#lyrics-artist {
+		font-size: 24px;
