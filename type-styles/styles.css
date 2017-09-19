@@ -1,0 +1,43 @@
+html,
+body {
+	background-color: white;
+	font-family:'Open Sans', sans-serif;
+	font-size: 24px
+
+}
+.font-bold{
+	font-weight:bold;
+}
+.colortext{
+	color: purple
+}
+.font-normal{
+	font-weight: normal;
+}
+.font-italic{
+	font-style: italic;
+}
+.widespace{
+	letter-spacing: .3em;
+}
+.tightspace{
+	letter-spacing: -.06em;
+}
+.underline{
+	text-decoration: underline;
+}
+.line-through{
+	text-decoration: line-through;
+}
+.overline{
+	text-decoration: overline;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.lowercase{
+	text-transform: lowercase;
+}
+.text-transform{
+	text-transform: capitalize;
+}
