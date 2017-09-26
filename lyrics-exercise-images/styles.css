@@ -1,0 +1,40 @@
+html {
+	color: white;
+	background-color: #002b70
+}
+em {color: red;
+}
+strong {
+	color: #dcaaed;
+}
+h1,h2 {color: #dcaaed
+
+ }
+ h1,h2 {
+ 	font-family:'Bowlby One', cursive;
+ 	letter-spacing: .2em
+ }
+ .font-size{
+ 	font-size: 32px
+ }
+ .colortext{
+ 	color:  #dcaaed
+ }
+ .uppercase{
+ 	text-transform: uppercase;
+ }
+ .underline{
+ 	text-decoration: underline;
+ }
+ .firstcolor{
+ 	color: lightblue
+ }
+ .secondcolor{
+ 	color:#00ffcc;
+ }
+ .thirdcolor{
+ 	color: #9999ff
+ }
+ body{
+ 	background-image: url(http://www.omega-level.net/wp-content/uploads/2011/05/The-Next-Tarantino-Star.png);
+ }
