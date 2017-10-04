@@ -1,0 +1,62 @@
+*,*:before, *:after {
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Archivo Narrow', sans-serif;
+}
+#intro{
+	padding-top: 157px;
+	padding-bottom: 205px;
+	text-align: center;
+	max-height: 482px;
+	background-image: url(https://media.wired.com/photos/59568e4aad90646d424bbd0b/2:1/w_2500,c_limit/HotDog-682828450-%5BConverted%5D.jpg);
+}
+h1 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 78px;
+	letter-spacing: 0.75px;
+
+}
+h3 {
+	margin-top: 3px;
+	margin-bottom: 0px;
+	font-size: 30px;
+
+}
+h2{
+	margin-top: 0px;
+}
+#stwo{
+	text-align: center;
+	padding-top: 40px;
+	font-size: 27px;
+	background-image: url(https://cdn-s3.si.com/s3fs-public/2017/06/30/hot-dog-line-break.png);
+	background-color: red;
+	max-height: 650px
+
+}
+p{
+	text-align: left;
+	font-size: 18px;
+	word-spacing: 2px;
+	margin-right: 50px;
+	color: white;
+
+
+}
+#img1{
+	float: right;
+	margin-left: 33px;
+}
+.content{
+	width: 960px;
+	margin:auto;
+}
+#sthree{
+	text-align: center;
+	padding-top: 53px;
+	font-size: 27px;
+	margin-top: 0;
+}
