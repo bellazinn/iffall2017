@@ -1,0 +1,70 @@
+#lyrics{
+	font-family: 'Lato', sans-serif;
+	color: #006884;
+	font-weight: bold;
+	padding-left: 500px;
+	padding-top: 300px;
+	padding-bottom: 250px;
+	font-size: 15px;
+
+}
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #fff687;
+	margin-top: 40px;
+	margin-right: 40px;
+	margin-left: 40px;
+	margin-bottom: 40px;
+
+
+}
+#yellowbox{
+max-width: 843px;
+
+}
+
+html{
+	background-color: #006884;
+
+}
+
+.relative{
+	position: relative;
+	top: 700px;
+	left: 30px;
+}
+
+img{
+	float: left;
+}
+
+#box{
+	background: #006884;
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    z-index: 1000;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: white;
+    padding-left: 20px;
+
+			}
+.absolute{
+	position: absolute;
+}
+
+h3{
+	font-style: italic;
+}
+
+#audio{
+	position: fixed;
+}
+
+#title:hover{
+    transform: rotate(360deg);
+	transition: 0.8s;
+	
+}
