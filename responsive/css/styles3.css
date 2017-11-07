@@ -1,0 +1,49 @@
+html{
+	background-color: #dfe20f;
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{
+    padding-left: 100px;
+    height: 1000px;
+    width:700px;
+    max-width: 1300px;
+    padding-bottom:100px;
+    margin: auto;
+}
+
+.tinaquote{
+	font-size: 40px;
+	color: white;
+	float: right;
+}
+
+.tina{
+	font-size: 30px;
+	color: white;
+}
+
+@media screen and (max-width: 600px){
+	img{
+		width: 500px;
+		height:800px;
+		}
+	.tinaquote{
+	font-size: 20px;
+	padding-top: 100px;
+	}
+	.tina{
+		font-size: 15px;
+
+	}
+	}
+#index3{
+position: absolute;
+display: block;
+width: 100%;
+height: 100%;
+
+}

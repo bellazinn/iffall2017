@@ -1,0 +1,49 @@
+html{
+	background-color: #16a7e5
+}
+
+body{
+	font-family: 'Open Sans', sans-serif;
+}
+
+img{ padding-left: 100px;
+    position: fixed;
+    height: 720px;
+    max-width: 1500px;
+    margin: auto;
+    width: 90%;
+}
+
+.genequote{
+	font-size: 40px;
+	color: #a7daef;
+}
+
+.gene{
+	font-size: 30px;
+	color: #a7daef;
+}
+
+@media screen and (max-width: 900px){
+	img{
+		width: 600px;
+		height:600px;
+		position: fixed;
+	}
+	.genequote{
+	font-size: 20px;
+	padding-top: 100px:;
+	}
+	.gene{
+		font-size: 15px;
+
+	}
+
+#index{
+position: absolute;
+display: block;
+width: 100%;
+height: 100%;
+
+}
+
