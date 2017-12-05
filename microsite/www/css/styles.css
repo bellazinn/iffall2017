@@ -164,3 +164,14 @@ h1{
     margin-bottom: 0px;
     padding-top: 19px;
 }
+
+.sources{
+    padding-top: 830px;
+    font-family: sans-serif;
+    float: right;
+    position: relative;
+    max-width: 350px;
+    font-size: 11px;
+    padding-right: 51px;
+    margin-top: -1165px;
+}
