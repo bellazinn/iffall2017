@@ -1,0 +1,13 @@
+html ,
+body {
+	margin:auto;
+	margin-top: 30px;
+	color:black;
+	font-family: font-family: 'Cormorant Garamond', serif;
+	background-color:white;
+	font-size:8pt;
+}
+a:hover {
+	opacity: .5;
+}
+
